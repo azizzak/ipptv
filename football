@@ -1,105 +1,3 @@
-#EXTINF:0 tvg-logo="?https://listaiptvbrasil.com/logo/realmadrid.jpg?" , REAL MADRID TV HD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1,FOX SPORTS
-http://5.255.90.242:5000/play/a022
-#EXTINF:0,Sly Sports Action - Sly Sports Action
-http://62.210.99.158:80/live?channelId=119&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,Sly Sports Action HD - Sly Sports Action HD
-http://62.210.99.158:80/live?channelId=120&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,Sly Sports Arena - Sly Sports Arena
-http://62.210.99.158:80/live?channelId=121&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,Sly Sports Arena HD - Sly Sports Arena HD
-http://62.210.99.158:80/live?channelId=122&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,Sly Sports Football HD - Sly Sports Football HD
-http://62.210.99.158:80/live?channelId=126&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,Sly Sports Golf - Sly Sports Golf
-http://62.210.99.158:80/live?channelId=127&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,Sly Sports Golf HD - Sly Sports Golf HD
-http://62.210.99.158:80/live?channelId=128&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,Sly Sports Main - Sly Sports Main
-http://62.210.99.158:80/live?channelId=129&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,Sly Sports Main HD - Sly Sports Main HD
-http://62.210.99.158:80/live?channelId=130&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,Sly Sports Mix - Sly Sports Mix
-http://62.210.99.158:80/live?channelId=131&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,Sly Sports Mix HD - Sly Sports Mix HD
-http://62.210.99.158:80/live?channelId=132&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,Sly Sports PL - Sly Sports PL
-http://62.210.99.158:80/live?channelId=133&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,Sly Sports PL HD - Sly Sports PL HD
-http://62.210.99.158:80/live?channelId=134&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,Sly Sports F1 - Sly Sports F1
-http://62.210.99.158:80/live?channelId=135&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,Sly Spts F1 HD - Sly Spts F1 HD
-http://62.210.99.158:80/live?channelId=136&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,Sly Sports News - Sly Sports News
-http://62.210.99.158:80/live?channelId=137&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,Sly Sports News HD - Sly Sports News HD
-http://62.210.99.158:80/live?channelId=138&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,Sly Sports Box Office - Sly Sports Box Office
-http://62.210.99.158:80/live?channelId=139&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,BT Sport 1 - BT Sport 1
-http://62.210.214.28:80/live?channelId=140&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,BT Sport 1 HD - BT Sport 1 HD
-http://62.210.214.28:80/live?channelId=141&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,BT Sport 2 - BT Sport 2
-http://62.210.214.28:80/live?channelId=142&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,BT Sport 2 HD - BT Sport 2 HD
-http://62.210.214.28:80/live?channelId=143&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,BT Sport 3 - BT Sport 3
-http://62.210.214.28:80/live?channelId=144&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,BT Sport 3 HD - BT Sport 3 HD
-http://62.210.214.28:80/live?channelId=145&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,BT Sport ESPN - BT Sport ESPN
-http://62.210.214.28:80/live?channelId=146&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,BT Sport ESPN HD - BT Sport ESPN HD
-http://62.210.214.28:80/live?channelId=147&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,BT Sport Extra 1 - BT Sport Extra 1
-http://62.210.214.28:80/live?channelId=148&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,BT Sport Extra 2 - BT Sport Extra 2
-http://62.210.214.28:80/live?channelId=149&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,BT Sport Extra 3 - BT Sport Extra 3
-http://62.210.214.28:80/live?channelId=150&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,BT Sport Extra 4 - BT Sport Extra 4
-http://62.210.214.28:80/live?channelId=151&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,BT Sport Extra 5 - BT Sport Extra 5
-http://62.210.214.28:80/live?channelId=152&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,BT Sport Extra 6 - BT Sport Extra 6
-http://62.210.214.28:80/live?channelId=153&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,eir Sport 1 - eir Sport 1
-http://62.210.214.28:80/live?channelId=154&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,eir Sport 2 - eir Sport 2
-http://62.210.214.28:80/live?channelId=155&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,Eurosport 1 - Eurosport 1
-http://62.210.214.28:80/live?channelId=156&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,Eurosport 2 - Eurosport 2
-http://62.210.214.28:80/live?channelId=157&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,FreeSports - FreeSports
-http://62.210.214.28:80/live?channelId=158&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,FrontRunner - FrontRunner
-http://62.210.214.28:80/live?channelId=159&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,MUTV - MUTV
-http://62.210.214.28:80/live?channelId=162&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,LFC tv - LFC tv
-http://62.210.214.28:80/live?channelId=163&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,Chelsea Tv - Chelsea Tv
-http://62.210.214.28:80/live?channelId=164&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,MOTOGP LIVE 3 - MOTOGP LIVE 3
-http://62.210.214.28:80/live?channelId=167&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,Motorsport TV - Motorsport TV
-http://62.210.214.28:80/live?channelId=168&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,Premier Sports - Premier Sports
-http://62.210.214.28:80/live?channelId=169&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,Premier Sports HD - Premier Sports HD
-http://62.210.214.28:80/live?channelId=170&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,Racing UK - Racing UK
-http://62.210.214.28:80/live?channelId=171&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,Racing UK HD - Racing UK HD
-http://62.210.214.28:80/live?channelId=172&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,At The Races - At The Races
-http://62.210.214.28:80/live?channelId=173&uid=1433&deviceMac=00:1A:79:3C:93:5D
-#EXTINF:0,BoxNation - BoxNation
-http://62.210.214.28:80/live?channelId=174&uid=1433&deviceMac=00:1A:79:3C:93:5D
 #EXTINF:0,bein france 1 - bein france 1
 http://163.172.105.25:80/live?channelId=175&uid=1433&deviceMac=00:1A:79:3C:93:5D
 #EXTINF:0,bein france 2 - bein france 2
@@ -164,6 +62,58 @@ http://163.172.15.141:9732/live?channelId=222&uid=1433&deviceMac=00:1A:79:3C:93:
 http://163.172.15.141:9732/live?channelId=223&uid=1433&deviceMac=00:1A:79:3C:93:5D
 #EXTINF:0,SPORTS NET ONE HD - SPORTS NET ONE HD
 http://163.172.15.141:9732/live?channelId=224&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:-1,FOX SPORTS
+http://5.255.90.242:5000/play/a022
+#EXTINF:0,BT Sport 1 - BT Sport 1
+http://62.210.214.28:80/live?channelId=140&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BT Sport 1 HD - BT Sport 1 HD
+http://62.210.214.28:80/live?channelId=141&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BT Sport 2 - BT Sport 2
+http://62.210.214.28:80/live?channelId=142&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BT Sport 2 HD - BT Sport 2 HD
+http://62.210.214.28:80/live?channelId=143&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BT Sport 3 - BT Sport 3
+http://62.210.214.28:80/live?channelId=144&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BT Sport 3 HD - BT Sport 3 HD
+http://62.210.214.28:80/live?channelId=145&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BT Sport ESPN - BT Sport ESPN
+http://62.210.214.28:80/live?channelId=146&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BT Sport ESPN HD - BT Sport ESPN HD
+http://62.210.214.28:80/live?channelId=147&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BT Sport Extra 1 - BT Sport Extra 1
+http://62.210.214.28:80/live?channelId=148&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BT Sport Extra 2 - BT Sport Extra 2
+http://62.210.214.28:80/live?channelId=149&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BT Sport Extra 3 - BT Sport Extra 3
+http://62.210.214.28:80/live?channelId=150&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BT Sport Extra 4 - BT Sport Extra 4
+http://62.210.214.28:80/live?channelId=151&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BT Sport Extra 5 - BT Sport Extra 5
+http://62.210.214.28:80/live?channelId=152&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BT Sport Extra 6 - BT Sport Extra 6
+http://62.210.214.28:80/live?channelId=153&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,MUTV - MUTV
+http://62.210.214.28:80/live?channelId=162&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,LFC tv - LFC tv
+http://62.210.214.28:80/live?channelId=163&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,Chelsea Tv - Chelsea Tv
+http://62.210.214.28:80/live?channelId=164&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,MOTOGP LIVE 3 - MOTOGP LIVE 3
+http://62.210.214.28:80/live?channelId=167&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,Motorsport TV - Motorsport TV
+http://62.210.214.28:80/live?channelId=168&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,Premier Sports - Premier Sports
+http://62.210.214.28:80/live?channelId=169&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,Premier Sports HD - Premier Sports HD
+http://62.210.214.28:80/live?channelId=170&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,Racing UK - Racing UK
+http://62.210.214.28:80/live?channelId=171&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,Racing UK HD - Racing UK HD
+http://62.210.214.28:80/live?channelId=172&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,At The Races - At The Races
+http://62.210.214.28:80/live?channelId=173&uid=1433&deviceMac=00:1A:79:3C:93:5D
+#EXTINF:0,BoxNation - BoxNation
+http://62.210.214.28:80/live?channelId=174&uid=1433&deviceMac=00:1A:79:3C:93:5D
 #EXTINF:0,SPORTS NET ONTARIO HD - SPORTS NET ONTARIO HD
 http://163.172.15.141:9732/live?channelId=225&uid=1433&deviceMac=00:1A:79:3C:93:5D
 #EXTINF:0,SPORTS NET PACIFIC HD - SPORTS NET PACIFIC HD
