@@ -201,19 +201,19 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_tablet.m3u8
 #EXTINF:-1 tvg-id="MLB Network-US" tvg-name="MLB Network-US" tvg-logo="https://i.imgur.com/mXEl1Xx.png" group-title="Sports",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sports",NBA百视通直播间1HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sports",NBA1HD
 http://223.110.243.170/PLTV/2/224/3221226795/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sports",NBA百视通直播间2HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sports",NBA2HD
 http://223.110.243.170/PLTV/2/224/3221226797/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sports",NBA百视通直播间3HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sports",NBA3HD
 http://223.110.243.170/PLTV/2/224/3221226799/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sports",NBA百视通直播间4HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sports",NBA4HD
 http://223.110.243.170/PLTV/2/224/3221226801/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sports",NBA百视通直播间5HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sports",NBA5HD
 http://223.110.243.170/PLTV/2/224/3221226803/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sports",NBA百视通直播间6HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sports",NBA6HD
 http://223.110.243.170/PLTV/2/224/3221226805/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sports",NBA百视通直播间7HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sports",NBA7HD
 http://223.110.243.170/PLTV/2/224/3221226807/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2PoLaXw.png" group-title="Sports",NewTV Super sports HD
 http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
