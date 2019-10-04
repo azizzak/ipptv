@@ -1,0 +1,146 @@
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/V8eTp2V.png" group-title="News",ABC News Digital 1
+https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/V8eTp2V.png" group-title="News",ABC News Digital 10
+https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/V8eTp2V.png" group-title="News",ABC News Digital 11
+http://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/V8eTp2V.png" group-title="News",ABC News Digital 11
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/V8eTp2V.png" group-title="News",ABC News Digital 2
+https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/V8eTp2V.png" group-title="News",ABC News Digital 3
+https://abclive1-lh.akamaihd.net/i/abc_live03@423397/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/V8eTp2V.png" group-title="News",ABC News Digital 4
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/V8eTp2V.png" group-title="News",ABC News Digital 5
+https://abclive1-lh.akamaihd.net/i/abc_live05@423399/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/V8eTp2V.png" group-title="News",ABC News Digital 6
+https://abclive1-lh.akamaihd.net/i/abc_live06@423400/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/V8eTp2V.png" group-title="News",ABC News Digital 7
+https://abclive1-lh.akamaihd.net/i/abc_live07@423401/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/V8eTp2V.png" group-title="News",ABC News Digital 8
+https://abclive1-lh.akamaihd.net/i/abc_live08@423402/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/V8eTp2V.png" group-title="News",ABC News Digital 9
+https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZNoM8_ZqOG-8Lksy07YD-ltPehSFnfWcmxTU1LxlwbC58_8jcfJ987g" group-title="News",ABP Asmita
+http://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/08/abp_asmita_in.png" group-title="News",ABP Asmita
+https://abp-i.akamaihd.net/hls/live/765532/abpasmita/masterhls_1564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/abpmajha78.jpg" group-title="News",ABP Majha
+https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8
+#EXTINF:-1 tvg-id="ABP News-IN" tvg-name="ABP News-IN" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="News",ABP News
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/acv_in_news.png" group-title="News",ACV News
+https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/LNI1HNi.png" group-title="News",Al Araby 1
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A9SIuRz.jpg" group-title="News",Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/chunklist_b1400000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="News",Al Jazeera
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="News",Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="News",Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="News",Al Jazeera
+http://ott-cdn.ucom.am/s69/04.m3u8
+#EXTINF:-1 tvg-id="20296" tvg-name="Al Jazeera Arabic" tvg-logo="https://i.imgur.com/sJM9Tic.jpg" group-title="News",Al Jazeera Arabic
+http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/160.m3u8
+#EXTINF:-1 tvg-id="20296" tvg-name="Al Jazeera Arabic" tvg-logo="https://i.imgur.com/sJM9Tic.jpg" group-title="News",Al Jazeera Arabic
+http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
+#EXTINF:-1 tvg-id="20296" tvg-name="Al Jazeera Arabic" tvg-logo="https://i.imgur.com/sJM9Tic.jpg" group-title="News",Al Jazeera Arabic
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index.m3u8
+#EXTINF:-1 tvg-id="20296" tvg-name="Al Jazeera Arabic" tvg-logo="https://i.imgur.com/sJM9Tic.jpg" group-title="News",Al Jazeera Arabic
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index2073.m3u8
+#EXTINF:-1 tvg-id="20296" tvg-name="Al Jazeera Arabic" tvg-logo="https://i.imgur.com/sJM9Tic.jpg" group-title="News",Al Jazeera Arabic
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index255.m3u8
+#EXTINF:-1 tvg-id="20296" tvg-name="Al Jazeera Arabic" tvg-logo="https://i.imgur.com/sJM9Tic.jpg" group-title="News",Al Jazeera Arabic
+http://ott-cdn.ucom.am/s69/index.m3u8
+#EXTINF:-1 tvg-id="20296" tvg-name="Al Jazeera Arabic" tvg-logo="https://i.imgur.com/sJM9Tic.jpg" group-title="News",Al Jazeera Arabic
+https://aja-hd-web-hls-live.secure.footprint.net/egress/chandler/aljazeera2/arabichd/index.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera-EXYU" tvg-name="Al Jazeera-EXYU" tvg-logo="https://i.imgur.com/5nu5KFo.png" group-title="News",Al Jazeera Balkans
+http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="News",Al Jazeera English
+http://210.210.155.35/session/fa0aa530-7b79-11e8-b63d-c81f66f89318/qwr9ew/s/s17/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="News",Al Jazeera English
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="News",Al Jazeera English
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="News",Al Jazeera English
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="News",Al Jazeera English
+http://i.mjh.nz/nz/tv.46.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="News",Al Jazeera English
+http://ott-cdn.ucom.am/s23/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="News",Al Jazeera English
+http://ott-cdn.ucom.am/s23/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PITp6xA.jpg" group-title="News",Al Jazeera English
+https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aOsvq06.png" group-title="News",Al Jazeera Mubasher
+http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aOsvq06.png" group-title="News",Al Jazeera Mubasher
+http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" group-title="News",Al Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2gf0KoK.png" group-title="News",Al-Alam
+http://live2.alalam.ir/live/Alalam_high/index.m3u8?v=1771904733
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2gf0KoK.png" group-title="News",Al-Alam
+https://live2.alalamtv.net/live/Alalam/index.m3u8
+#EXTINF:-1 tvg-id="Alfa TV BG" tvg-name="Alfa TV BG" tvg-logo="https://i.imgur.com/fg8UFAa.jpg" group-title="News",Alfa TV
+http://alfa.bg:1935/live/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Alfa TV BG" tvg-name="Alfa TV BG" tvg-logo="https://i.imgur.com/UaXwtnI.png" group-title="News",Alfa TV
+http://alfa.bg:1935/live/live/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",Antenna Tre
+http://wms.shared.streamshow.it/antennatre/antennatre/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="News",Ariana News
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist_w796472816.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5RquBOS.jpg" group-title="News",Arm News TV
+http://ott-cdn.ucom.am/s11/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5RquBOS.jpg" group-title="News",Arm News TV
+http://ott-cdn.ucom.am/s11/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/89LBgkl.png" group-title="News",Asianet News
+http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/BBC_World_News-1.png" group-title="News",BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
+http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
+http://ott-cdn.ucom.am/s24/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",BeritaSatu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://firstmedia.com/uploads/LOGO%20berita%20satu.png?1383203151" group-title="News",BeritaSatu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2jbulL2.jpg" group-title="News",bTV News
+http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1aONdH2.jpg" group-title="News",BTV News
+https://1672046706.rsc.cdn77.org/LS-50041-SIN-10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HbOrvOn.jpg" group-title="News",CBSN
+http://bit.ly/2F78T4M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HbOrvOn.jpg" group-title="News",CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HbOrvOn.jpg" group-title="News",CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HbOrvOn.jpg" group-title="News",CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HbOrvOn.jpg" group-title="News",CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HbOrvOn.jpg" group-title="News",CBSN
+http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HbOrvOn.jpg" group-title="News",CBSN
+http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HbOrvOn.jpg" group-title="News",CBSN
+https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/2018/12/11/044a5de4-b638-466c-a6f2-fe9513ede3a8/2f47b3fc5562b15462c61363170766fb/logo-cbsn-ny-web-444x224.png" group-title="News",CBSN New York
+https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8?iu=/8264/vaw-can/desktop/cbsnews
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/c5Yj2to.png" group-title="News",CGTN
+http://39.135.16.142:6060/PLTV/88888888/224/3221225664/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="https://i.imgur.com/fXqy322.png" tvg-logo="" group-title="News",RT
+http://ott-cdn.ucom.am/s96/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fXqy322.png" group-title="News",RT
+http://ott-cdn.ucom.am/s96/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fXqy322.png" group-title="News",RT
+https://rt-news.secure.footprint.net/1103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="https://i.imgur.com/fXqy322.png" tvg-logo="" group-title="News",RT
+https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
