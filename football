@@ -10,13 +10,13 @@ http://145.239.8.174:3500/live/kilitcaglar/6584merder/20254.ts
 http://145.239.8.174:3500/live/kilitcaglar/6584merder/20255.ts
 #EXTINF:-1 tvg-logo="" group-title="Football",TSN Sport 3
 http://145.239.8.174:3500/live/kilitcaglar/6584merder/20256.ts
-#EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="ESPORTES", FOX SPORTS HD
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Football", FOX SPORTS HD
 http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1826.ts
-#EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/sky-sport-bundesliga-1.jpg",Sky Sport Bundesliga 1
+#EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/sky-sport-bundesliga-1.jpg" group-title="Football",Sky Sport Bundesliga 1
 https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/725/index.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/sky-sport-hd-2-deutschland.jpg",Sky Sport 2 HD Deutschland
+#EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/sky-sport-hd-2-deutschland.jpg" group-title="Football",Sky Sport 2 HD Deutschland
 https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/733/index.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/sky-sport-austria.jpg",Sky Sport Austria
+#EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/sky-sport-austria.jpg" group-title="Football",Sky Sport Austria
 https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/746/index.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/sky-sport-austria-hd.jpg",Sky Sport Austria HD
+#EXTINF:-1 group-title="Sport" tvg-logo="https://onlybest.tv/images/logo/sky-sport-austria-hd.jpg" group-title="Football",Sky Sport Austria HD
 https://playlist.onlybest.tv/en/channel/9e18d4d6e4f56f48723f3d0ec5cfa94e/475/index.m3u8
